@@ -1,2 +1,3 @@
 # Greetings Earth!
-*Main branch*
+I would like to deviate from the norms of the world
+
