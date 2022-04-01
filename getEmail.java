@@ -1,4 +1,5 @@
 import sailpoint.object.Identity;
 
-Identity identity = context.getObjectByName(Identity.class, "User123");
+
+Identity identity = context.getObjectByName(Identity.class, "EmployeeA");
 return identity.getEmail;
